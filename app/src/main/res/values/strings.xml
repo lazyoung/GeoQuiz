@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">是</string>
+    <string name="false_button">否</string>
+    <string name="cheat_button">放弃回答</string>
+    <string name="warning_text">继续作弊，本次答题将无效~</string>
+    <string name="show_answer_button">显示答案</string>
+    <string name="judgment_toast">作弊者注定是要失败的</string>
+    <string name="correct_toast">恭喜，答案正确</string>
+    <string name="incorrect_toast">很遗憾，答案错误</string>
+    <string name="next_button">后</string>
+    <string name="prev_button">前</string>
+    <string name="question_oceans">太平洋比大西洋更大</string>
+    <string name="question_mideast">苏伊士运河连接红海和印度洋</string>
+    <string name="question_africa">尼罗河发源于埃及</string>
+    <string name="question_asia">贝加尔湖是世界上最古老和最深的淡水湖</string>
+</resources>
